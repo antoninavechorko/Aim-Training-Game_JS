@@ -1,6 +1,6 @@
 # Aim-Training-Game_JS
 
-<b>Link to published project</b>: https://antoninavechorko.github.io/Aim-Training-Game_JS/ 
+<b>Link to project</b>: https://antoninavechorko.github.io/Aim-Training-Game_JS/ 
 <br/>
 <b>Stack</b>: JS
 
